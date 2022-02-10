@@ -1,0 +1,256 @@
+name,diet,prep_time,cook_time,flavor_profile,course,state,region
+Balu shahi,vegetarian,45,25,sweet,dessert,West Bengal,East
+Boondi,vegetarian,80,30,sweet,dessert,Rajasthan,West
+Gajar ka halwa,vegetarian,15,60,sweet,dessert,Punjab,North
+Ghevar,vegetarian,15,30,sweet,dessert,Rajasthan,West
+Gulab jamun,vegetarian,15,40,sweet,dessert,West Bengal,East
+Imarti,vegetarian,10,50,sweet,dessert,West Bengal,East
+Jalebi,vegetarian,10,50,sweet,dessert,Uttar Pradesh,North
+Kaju katli,vegetarian,10,20,sweet,dessert,-1,-1
+Kalakand,vegetarian,20,30,sweet,dessert,West Bengal,East
+Kheer,vegetarian,10,40,sweet,dessert,-1,-1
+Laddu,vegetarian,10,40,sweet,dessert,-1,-1
+Lassi,vegetarian,5,5,sweet,dessert,Punjab,North
+Nankhatai,vegetarian,20,30,sweet,dessert,-1,-1
+Petha,vegetarian,10,30,sweet,dessert,Uttar Pradesh,North
+Phirni,vegetarian,30,20,sweet,dessert,Odisha,East
+Rabri,vegetarian,10,45,sweet,dessert,Uttar Pradesh,North
+Sheera,vegetarian,10,25,sweet,dessert,Maharashtra,West
+Singori,vegetarian,10,20,sweet,dessert,Uttarakhand,North
+Sohan halwa,vegetarian,10,60,sweet,dessert,Uttar Pradesh,North
+Sohan papdi,vegetarian,-1,60,sweet,dessert,Maharashtra,West
+Chhena jalebi,vegetarian,10,50,sweet,dessert,Odisha,East
+Chhena kheeri,vegetarian,-1,60,sweet,dessert,Odisha,East
+Chhena poda,vegetarian,10,45,sweet,dessert,Odisha,East
+Cham cham,vegetarian,40,60,sweet,dessert,West Bengal,East
+Kheer sagar,vegetarian,25,60,sweet,dessert,Odisha,East
+Ledikeni,vegetarian,45,45,sweet,dessert,West Bengal,East
+Lyangcha,vegetarian,20,30,sweet,dessert,Assam,North East
+Malapua,vegetarian,10,120,sweet,dessert,Bihar,North
+Mihidana,vegetarian,15,30,sweet,dessert,West Bengal,East
+Misti doi,vegetarian,480,30,sweet,dessert,West Bengal,East
+Pantua,vegetarian,45,45,sweet,dessert,West Bengal,East
+Pithe,vegetarian,15,35,sweet,dessert,Assam,North East
+Rasabali,vegetarian,15,30,sweet,dessert,Odisha,East
+Ras malai,vegetarian,180,60,sweet,dessert,West Bengal,East
+Rasgulla,vegetarian,10,90,sweet,dessert,West Bengal,East
+Sandesh,vegetarian,30,20,sweet,dessert,West Bengal,East
+Adhirasam,vegetarian,10,50,sweet,dessert,West Bengal,East
+Ariselu,vegetarian,15,75,sweet,dessert,Andhra Pradesh,South
+Bandar laddu,vegetarian,5,35,sweet,dessert,Andhra Pradesh,South
+Chikki,vegetarian,10,20,sweet,dessert,Maharashtra,West
+Dharwad pedha,vegetarian,20,60,sweet,dessert,Karnataka,South
+Double ka meetha,vegetarian,20,30,sweet,dessert,Telangana,South
+Gavvalu,vegetarian,10,30,sweet,dessert,Andhra Pradesh,South
+Kakinada khaja,vegetarian,10,30,sweet,dessert,Andhra Pradesh,South
+Kuzhi paniyaram,vegetarian,10,20,sweet,dessert,Kerala,South
+Mysore pak,vegetarian,5,20,sweet,dessert,Karnataka,South
+Obbattu holige,vegetarian,180,60,sweet,main course,Karnataka,South
+Palathalikalu,vegetarian,10,25,sweet,dessert,Andhra Pradesh,South
+Poornalu,vegetarian,240,60,sweet,dessert,Andhra Pradesh,South
+Pongal,vegetarian,5,20,sweet,dessert,Tamil Nadu,South
+Pootharekulu,vegetarian,10,60,sweet,dessert,Andhra Pradesh,South
+Qubani ka meetha,vegetarian,10,20,sweet,dessert,Telangana,South
+Sheer korma,vegetarian,10,20,sweet,dessert,Telangana,South
+Unni Appam,vegetarian,10,20,sweet,dessert,Tamil Nadu,South
+Kajjikaya,vegetarian,40,15,sweet,dessert,Andhra Pradesh,South
+Anarsa,vegetarian,10,50,sweet,dessert,Maharashtra,West
+Basundi,vegetarian,10,35,sweet,dessert,Gujarat,West
+Dhondas,vegetarian,10,50,sweet,dessert,Maharashtra,West
+Doodhpak,vegetarian,10,60,sweet,dessert,Gujarat,West
+Mahim halwa,vegetarian,10,25,sweet,dessert,Maharashtra,West
+Modak,vegetarian,10,15,sweet,dessert,Maharashtra,West
+Shankarpali,vegetarian,10,35,sweet,dessert,Maharashtra,West
+Shrikhand,vegetarian,10,720,sweet,dessert,Maharashtra,West
+Sutar feni,vegetarian,15,55,sweet,dessert,Maharashtra,West
+Maach Jhol,non vegetarian,10,40,spicy,main course,Assam,North East
+Pork Bharta,non vegetarian,-1,-1,spicy,main course,Tripura,North East
+Chak Hao Kheer,vegetarian,240,45,sweet,dessert,Manipur,North East
+Galho,non vegetarian,5,15,spicy,main course,Nagaland,North East
+Aloo gobi,vegetarian,10,20,spicy,main course,Punjab,North
+Aloo tikki,vegetarian,5,20,spicy,main course,Punjab,North
+Aloo matar,vegetarian,5,40,spicy,main course,Punjab,North
+Aloo methi,vegetarian,10,40,bitter,main course,Punjab,North
+Aloo shimla mirch,vegetarian,10,40,spicy,main course,Punjab,North
+Bhatura,vegetarian,20,20,spicy,main course,Punjab,North
+Bhindi masala,vegetarian,20,30,spicy,main course,Punjab,North
+Biryani,non vegetarian,30,120,spicy,main course,Telangana,South
+Butter chicken,non vegetarian,10,35,spicy,main course,NCT of Delhi,North
+Chana masala,vegetarian,20,30,spicy,main course,Punjab,North
+Chapati,vegetarian,10,10,-1,main course,Maharashtra,West
+Chicken razala,non vegetarian,10,35,spicy,main course,West Bengal,East
+Chicken Tikka masala,non vegetarian,10,50,spicy,main course,Punjab,North
+Chicken Tikka,non vegetarian,120,45,spicy,starter,Punjab,North
+Chole bhature,vegetarian,20,30,spicy,main course,Punjab,North
+Daal baati churma,vegetarian,10,90,spicy,main course,Rajasthan,West
+Daal puri,vegetarian,30,30,spicy,main course,West Bengal,East
+Dal makhani ,vegetarian,10,60,sweet,main course,Punjab,North
+Dal tadka,vegetarian,10,30,spicy,main course,Punjab,North
+Dum aloo,vegetarian,20,50,spicy,main course,Jammu & Kashmir,North
+Poha,vegetarian,20,30,spicy,snack,Maharashtra,West
+Fara,vegetarian,10,60,spicy,snack,Chhattisgarh,Central
+Kachori,vegetarian,30,60,spicy,snack,Uttar Pradesh,North
+Kadai paneer,vegetarian,20,30,spicy,main course,Punjab,North
+Kadhi pakoda,vegetarian,10,60,spicy,main course,Haryana,North
+Karela bharta,vegetarian,20,50,bitter,main course,Punjab,North
+Khichdi,vegetarian,40,20,spicy,main course,-1,-1
+Kofta,vegetarian,20,40,spicy,main course,Uttar Pradesh,North
+Kulfi falooda,vegetarian,45,25,sweet,dessert,-1,-1
+Lauki ke kofte,vegetarian,20,40,spicy,main course,Uttar Pradesh,North
+Lauki ki subji,vegetarian,10,20,spicy,main course,-1,-1
+Litti chokha,vegetarian,45,60,spicy,main course,Bihar,North
+Makki di roti sarson da saag,vegetarian,25,30,spicy,main course,Punjab,North
+Misi roti,vegetarian,30,30,spicy,main course,Punjab,North
+Mushroom do pyaza,vegetarian,10,30,spicy,main course,Punjab,North
+Mushroom matar,vegetarian,10,30,spicy,main course,Punjab,North
+Naan,vegetarian,60,30,-1,main course,Punjab,North
+Navrattan korma,vegetarian,25,40,spicy,main course,Uttar Pradesh,North
+Palak paneer,vegetarian,20,40,spicy,main course,Punjab,North
+Paneer butter masala,vegetarian,20,40,spicy,main course,Punjab,North
+Paneer tikka masala,vegetarian,20,40,spicy,main course,Punjab,North
+Pani puri,vegetarian,15,2,spicy,snack,-1,-1
+Panjeeri,vegetarian,10,25,sweet,dessert,Uttar Pradesh,
+Papad,vegetarian,5,5,spicy,snack,-1,-1
+Paratha,vegetarian,15,45,spicy,main course,Punjab,North
+Pattor,vegetarian,10,30,spicy,main course,Rajasthan,West
+Pindi chana,vegetarian,500,120,spicy,main course,Punjab,North
+Rajma chaval,vegetarian,15,90,spicy,main course,-1,North
+Rongi,vegetarian,10,30,-1,main course,Punjab,North
+Samosa,vegetarian,30,30,spicy,snack,-1,-1
+Sattu ki roti,vegetarian,10,20,spicy,main course,Bihar,North
+Shahi paneer,vegetarian,20,40,spicy,main course,Punjab,North
+Shahi tukra,vegetarian,10,30,sweet,dessert,Telangana,South
+Vegetable jalfrezi,vegetarian,10,30,spicy,main course,Punjab,North
+Tandoori Chicken,non vegetarian,240,30,spicy,main course,Punjab,North
+Tandoori Fish Tikka,non vegetarian,240,30,spicy,starter,Punjab,North
+Attu,vegetarian,150,25,spicy,snack,Andhra Pradesh,South
+Avial,vegetarian,30,45,spicy,main course,Kerala,South
+Bisi bele bath,vegetarian,30,45,spicy,main course,Karnataka,South
+Currivepillai sadam ,vegetarian,10,20,spicy,main course,Tamil Nadu,South
+Dosa,vegetarian,360,90,spicy,snack,-1,South
+Idiappam,vegetarian,120,30,spicy,snack,Tamil Nadu,South
+Idli,vegetarian,360,90,spicy,snack,-1,South
+Kanji,vegetarian,10,45,-1,snack,Kerala,South
+Kaara kozhambu,vegetarian,-1,-1,spicy,main course,Tamil Nadu,South
+Keerai kootu,vegetarian,20,30,spicy,main course,Tamil Nadu,South
+Keerai masiyal,vegetarian,-1,-1,spicy,main course,Tamil Nadu,South
+Keerai sadam,vegetarian,10,20,spicy,main course,Tamil Nadu,South
+Keerai poriyal,vegetarian,20,30,spicy,main course,Tamil Nadu,South
+Beef Fry,non vegetarian,10,60,spicy,main course,Kerala,South
+Kootu,vegetarian,10,15,spicy,main course,Tamil Nadu,South
+Kos kootu,vegetarian,10,20,spicy,main course,Tamil Nadu,South
+Koshambri,vegetarian,10,20,spicy,main course,Karnataka,South
+Kothamali sadam,vegetarian,10,20,spicy,main course,Tamil Nadu,South
+Kuzhakkattai,vegetarian,10,90,spicy,main course,Tamil Nadu,South
+Kuzhambu,vegetarian,5,30,spicy,main course,Tamil Nadu,South
+Masala Dosa,vegetarian,360,90,spicy,snack,-1,South
+Pachadi,vegetarian,10,25,-1,main course,-1,South
+Paniyaram,vegetarian,10,20,-1,main course,Tamil Nadu,South
+Papadum,vegetarian,5,5,spicy,snack,Kerala,South
+Paravannam,vegetarian,-1,-1,spicy,main course,Kerala,South
+Payasam,vegetarian,15,30,sweet,dessert,-1,South
+Paruppu sadam,vegetarian,10,20,-1,main course,Tamil Nadu,South
+Pesarattu,vegetarian,120,20,spicy,snack,Andhra Pradesh,South
+Poriyal,vegetarian,-1,-1,spicy,main course,Tamil Nadu,South
+Puli sadam,vegetarian,10,20,-1,main course,Tamil Nadu,South
+Rasam,vegetarian,10,35,spicy,main course,-1,South
+Puttu,vegetarian,495,40,-1,main course,Kerala,South
+Sambar,vegetarian,20,45,spicy,main course,-1,South
+Sandige,vegetarian,120,60,-1,main course,Karnataka,South
+Sevai,vegetarian,120,30,-1,main course,-1,South
+Thayir sadam,vegetarian,10,20,-1,main course,Tamil Nadu,South
+Theeyal,vegetarian,15,20,-1,main course,Kerala,South
+Uttapam,vegetarian,10,20,spicy,snack,-1,South
+Vada,vegetarian,15,20,spicy,snack,-1,South
+Chicken Varuval,non vegetarian,10,35,spicy,main course,Tamil Nadu,South
+Upma,vegetarian,10,20,spicy,snack,-1,-1
+Amti,vegetarian,10,45,spicy,main course,Maharashtra,West
+Zunka,vegetarian,10,25,spicy,main course,Maharashtra,West
+Kolim Jawla,non vegetarian,-1,-1,spicy,main course,Maharashtra,West
+Saath,vegetarian,20,40,spicy,main course,Gujarat,West
+Bajri no rotlo,vegetarian,10,10,spicy,main course,Gujarat,West
+Coconut vadi,vegetarian,20,30,sweet,dessert,Maharashtra,West
+Bhakri,vegetarian,20,25,-1,main course,Maharashtra,West
+Bombil fry,non vegetarian,-1,-1,spicy,main course,Maharashtra,West
+Chakali,vegetarian,10,40,spicy,snack,Maharashtra,West
+Chevdo,vegetarian,20,30,spicy,snack,Gujarat,West
+Chorafali,vegetarian,5,15,spicy,snack,Gujarat,West
+Copra paak,vegetarian,20,30,-1,main course,Gujarat,West
+Daal Dhokli,vegetarian,20,30,spicy,main course,Gujarat,West
+Kutchi dabeli,vegetarian,30,10,spicy,snack,Gujarat,West
+Dahi vada,vegetarian,30,30,-1,snack,Maharashtra,West
+Dalithoy,vegetarian,5,20,-1,main course,Maharashtra,West
+Dhokla,vegetarian,10,20,spicy,snack,Gujarat,West
+Dudhi halwa,vegetarian,15,30,sweet,dessert,Gujarat,West
+Gatta curry,vegetarian,10,20,spicy,main course,Rajasthan,West
+Gud papdi,vegetarian,10,20,sweet,dessert,Gujarat,West
+Ghooghra,vegetarian,-1,-1,spicy,snack,Gujarat,West
+Handwo,vegetarian,20,30,spicy,snack,Gujarat,West
+Halvasan,vegetarian,-1,-1,sweet,dessert,Gujarat,West
+Jeera Aloo,vegetarian,10,30,spicy,main course,Gujarat,West
+Kansar,vegetarian,10,40,-1,main course,Gujarat,West
+Keri no ras,vegetarian,10,10,sour,main course,Gujarat,West
+Khakhra,vegetarian,20,40,spicy,snack,Gujarat,West
+Khandvi,vegetarian,20,45,spicy,snack,Gujarat,West
+Kombdi vade,vegetarian,10,25,spicy,snack,Maharashtra,West
+Laapsi,vegetarian,10,40,spicy,main course,Madhya Pradesh,Central
+Koshimbir,vegetarian,10,10,spicy,main course,Maharashtra,West
+Methi na Gota,vegetarian,15,30,bitter,main course,Gujarat,West
+Mohanthal,vegetarian,5,45,sweet,dessert,Gujarat,West
+Muthiya,vegetarian,15,30,bitter,snack,Gujarat,West
+Patra,vegetarian,10,40,spicy,snack,Gujarat,West
+Pav Bhaji,vegetarian,20,40,spicy,main course,Maharashtra,West
+Puri Bhaji,vegetarian,10,30,spicy,main course,Maharashtra,West
+Sabudana Khichadi,vegetarian,70,30,spicy,snack,Maharashtra,West
+Sev khamani,vegetarian,20,30,spicy,main course,Gujarat,West
+Sev tameta,vegetarian,20,30,spicy,main course,Gujarat,West
+Namakpara,vegetarian,10,35,spicy,snack,Gujarat,West
+Sukhdi,vegetarian,10,20,sweet,dessert,Maharashtra,West
+Surnoli,vegetarian,60,10,spicy,snack,Maharashtra,West
+Thalipeeth,vegetarian,25,30,spicy,main course,Maharashtra,West
+Undhiyu,vegetarian,25,60,spicy,main course,Gujarat,West
+Veg Kolhapuri,vegetarian,20,30,spicy,main course,Maharashtra,West
+Vindaloo,non vegetarian,10,40,spicy,main course,Goa,West
+Lilva Kachori,vegetarian,30,6,spicy,snack,Gujarat,West
+Mag Dhokli,vegetarian,-1,-1,spicy,snack,Gujarat,West
+Khichu,vegetarian,5,10,spicy,snack,Gujarat,West
+Thepla,vegetarian,15,30,spicy,snack,Gujarat,West
+Farsi Puri,vegetarian,-1,-1,-1,snack,Gujarat,West
+Khaman,vegetarian,10,20,spicy,snack,Gujarat,West
+Turiya Patra Vatana sabji,vegetarian,35,40,spicy,main course,Gujarat,West
+Churma Ladoo,vegetarian,12,40,sweet,dessert,Rajasthan,West
+Cheera Doi,vegetarian,-1,-1,sweet,dessert,West Bengal,East
+Gheela Pitha,vegetarian,10,30,sweet,dessert,Assam,North East
+Khar,vegetarian,10,20,-1,main course,Assam,North East
+Kumol Sawul,non vegetarian,-1,-1,spicy,main course,Assam,North East
+Luchi,vegetarian,20,30,-1,main course,West Bengal,East
+Alu Pitika,non vegetarian,5,20,spicy,main course,Assam,North East
+Masor tenga,non vegetarian,15,25,spicy,main course,Assam,North East
+Bengena Pitika,vegetarian,-1,-1,-1,main course,Assam,North East
+Bilahi Maas,non vegetarian,10,20,-1,main course,Assam,North East
+Black rice,non vegetarian,-1,-1,-1,main course,Manipur,North East
+Bora Sawul,vegetarian,-1,-1,spicy,main course,Assam,North East
+Brown Rice,vegetarian,15,25,-1,main course,-1,-1
+Chingri malai curry,non vegetarian,10,40,spicy,main course,West Bengal,East
+Goja,vegetarian,20,60,sweet,dessert,West Bengal,East
+Hando Guri,vegetarian,-1,-1,sweet,dessert,Assam,North East
+Haq Maas,non vegetarian,20,40,spicy,main course,Assam,North East
+Chingri Bhape,non vegetarian,15,30,-1,main course,West Bengal,East
+Kabiraji,non vegetarian,-1,-1,spicy,main course,West Bengal,East
+Khorisa,vegetarian,-1,-1,spicy,main course,Assam,North East
+Koldil Chicken,non vegetarian,-1,-1,spicy,main course,Assam,North East
+Konir Dom,non vegetarian,-1,-1,spicy,main course,Assam,North East
+Koldil Duck,non vegetarian,-1,-1,spicy,main course,Assam,North East
+Masor Koni,non vegetarian,-1,-1,spicy,main course,Assam,North East
+Mishti Chholar Dal,vegetarian,10,30,sweet,main course,West Bengal,East
+Pakhala,vegetarian,-1,-1,-1,main course,Odisha,East
+Pani Pitha,vegetarian,10,20,-1,main course,Assam,North East
+Payokh,vegetarian,-1,-1,sweet,dessert,Assam,North East
+Prawn malai curry,non vegetarian,15,50,spicy,main course,West Bengal,East
+Red Rice,vegetarian,-1,-1,-1,main course,-1,-1
+Shukto,vegetarian,10,20,spicy,main course,West Bengal,East
+Til Pitha,vegetarian,5,30,sweet,dessert,Assam,North East
+Bebinca,vegetarian,20,60,sweet,dessert,Goa,West
+Shufta,vegetarian,-1,-1,sweet,dessert,Jammu & Kashmir,North
+Mawa Bati,vegetarian,20,45,sweet,dessert,Madhya Pradesh,Central
+Pinaca,vegetarian,-1,-1,sweet,dessert,Goa,West
